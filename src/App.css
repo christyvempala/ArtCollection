@@ -1,0 +1,11 @@
+body
+{
+    background-image: url("https://image.freepik.com/free-photo/plain-dark-blue-product-background_53876-102471.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:0;
+    box-sizing:border-box;
+    padding:0;
+    background-attachment: fixed;
+}

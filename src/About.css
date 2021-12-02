@@ -1,0 +1,70 @@
+.about-section
+{
+    float: left;
+    position: relative;
+    width: 100%;
+}
+.pb-70
+{
+    padding-bottom:10rem;
+}
+.pt-120
+{
+    padding-top:6rem;
+}
+.mb
+{
+    margin-bottom:20rem;
+}
+.about-item
+{
+    text-align: center;
+    box-shadow: 0 0 15px rgb(0 0 0 / 15%);
+}
+.about-item .image
+{
+    display: block;
+    position: relative;
+    transform: scale(1.0);
+    transition-duration: 0.5s;
+    
+}
+a{
+    
+    outline: medium none;
+    text-decoration: none;
+    background-color: transparent;
+
+}
+
+
+.about-item .title
+{
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-top: 0;
+    padding: 20px 0;
+    text-transform: uppercase;
+    font-weight: 700;
+    color:white;
+}
+.about-item:hover{
+    transform: scale(1.2);
+    transition-duration: 0.5s;
+}
+.about-item .image .img
+{
+    
+    height:16rem;
+}
+.mypic
+{
+    height:19.5rem;
+   
+}
+
+.mypic1
+{
+    width:15rem;
+    height:19.5rem;
+}

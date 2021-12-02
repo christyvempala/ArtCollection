@@ -1,0 +1,67 @@
+
+.container
+{
+    margin-top: 5rem;
+    
+}
+
+.contact-info .mail {
+    font-size: 35px;
+    font-weight: 700;
+    font-family: "Zilla Slab",serif;
+    display: block;
+    line-height: 1.2;
+    text-align: center;
+    
+    
+}
+.alink
+{
+    text-decoration: none;
+    color:whitesmoke;
+    padding-right:2rem;
+
+}
+.contact-form
+{
+    margin:1rem;
+    padding-left:1rem;
+}
+.single-form input, .single-form textarea {
+    width: 100%;
+    border: 0;
+    background: none;
+    border-bottom: 1px solid hsla(0,0%,100%,.15);
+    font-size: 16px;
+    color: hsla(0,0%,100%,.5);
+    padding: 15px 0;
+    outline: none;
+    transition: all .3s ease 0s;
+}
+.form-btn
+{
+    padding-top: 2rem;
+}
+.form-btn button {
+    font-size: 15px;
+    font-weight: 700;
+    font-family: "Zilla Slab",serif;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: all .3s ease 0s;
+    background: none;
+    padding: 0;
+    border-color: none;
+    box-shadow: 0 0 15px rgb(0 0 0 / 15%);
+    margin-bottom:1.5rem;
+}
+.form-btn button:hover{
+    
+    transform: scale(1.0);
+    transition-duration: 0.5s;
+}
+.ccontact-section-warpper
+{
+    padding-right:4rem;
+}
