@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/christyvempala/ArtCollection/static/css/main.d997aeae.chunk.css",
+    "main.js": "/christyvempala/ArtCollection/static/js/main.d44a06ab.chunk.js",
+    "main.js.map": "/christyvempala/ArtCollection/static/js/main.d44a06ab.chunk.js.map",
+    "runtime-main.js": "/christyvempala/ArtCollection/static/js/runtime-main.39b6c02f.js",
+    "runtime-main.js.map": "/christyvempala/ArtCollection/static/js/runtime-main.39b6c02f.js.map",
+    "static/css/2.ed1298f3.chunk.css": "/christyvempala/ArtCollection/static/css/2.ed1298f3.chunk.css",
+    "static/js/2.52db909a.chunk.js": "/christyvempala/ArtCollection/static/js/2.52db909a.chunk.js",
+    "static/js/2.52db909a.chunk.js.map": "/christyvempala/ArtCollection/static/js/2.52db909a.chunk.js.map",
+    "index.html": "/christyvempala/ArtCollection/index.html",
+    "static/css/2.ed1298f3.chunk.css.map": "/christyvempala/ArtCollection/static/css/2.ed1298f3.chunk.css.map",
+    "static/css/main.d997aeae.chunk.css.map": "/christyvempala/ArtCollection/static/css/main.d997aeae.chunk.css.map",
+    "static/js/2.52db909a.chunk.js.LICENSE.txt": "/christyvempala/ArtCollection/static/js/2.52db909a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39b6c02f.js",
+    "static/css/2.ed1298f3.chunk.css",
+    "static/js/2.52db909a.chunk.js",
+    "static/css/main.d997aeae.chunk.css",
+    "static/js/main.d44a06ab.chunk.js"
+  ]
+}

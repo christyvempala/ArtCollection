@@ -1,8 +1,0 @@
-export const ROOT_URL="https://graph.instagram.com"
-export const APP_SECRET="4d4b79d1fe73b3861bd9eadd72691d2c"
-export const TOKEN="IGQVJVMUJYbHVBQkN1bXJaNWtCNE42NGZAPeG85SDM5U1cyM1llSXlfanRTNGI3bUtkU0RmZAk1hdEY0ZADBsQ2I2S25rRDBuSjI1cnNXbjBhUWtrdjduR05FSmM0UDlfdTQzUmYzV2RRYUsyMFhPamtjcgZDZD"
-
-export const NEWTOKEN="IGQVJVTXpBR0szdS1JNHg0T1JUUFotWGVWdTU4dVJwTUN6TVptYjNQQkdUUGsxNlBaN0lCaGRkRElSUjhZAbFBfVXZAPcG1oTTRyRXRYVk1nNkpmLU9CWW42YkZA6T3NKdmJiR2ozcXN0LUJ2S3dnSTF6UAZDZD"
-export const IMAGE_URL="https://scontent.cdninstagram.com/v/t51.29350-15"
-export const IMAGEURL="https://www.instagram.com/p"
-
